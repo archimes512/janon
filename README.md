@@ -1,7 +1,7 @@
 # janon
 anonymous moderation for the 'craft
 
-Works with EssentialsX Vanish and LuckPerms to enforce anonymous server moderation and prevent players from knowing who server moderators are, while logging vanish activity.
+Works with EssentialsX Vanish and LuckPerms to enforce anonymous server moderation and prevent players from knowing who server moderators are, while logging vanish activity. Should prevent moderation abuse and conspiracies by players.
 
 Name comes from pejorative imageboard slang "Janny", used to refer to moderators, and an abbreviation of "Anonymous"
 
